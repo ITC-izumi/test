@@ -2,4 +2,8 @@ abc
 def
 
 develop sub branch
+<<<<<<< HEAD
 master branch work
+=======
+develop sub branch2
+>>>>>>> develop-sub
